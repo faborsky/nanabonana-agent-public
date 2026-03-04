@@ -188,7 +188,7 @@ MIT
 
 ## Author
 
-Built by [Jindrich Faborsky](https://github.com/faborsky) with Claude Code.
+Built by [Jindrich Faborsky](https://www.faborsky.com) with Claude Code.
 
 ---
 
