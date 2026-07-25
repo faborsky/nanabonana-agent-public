@@ -1,3 +1,16 @@
+> # ⚠️ Tento repozitář byl přesunut
+>
+> **Aktuální verze žije na [github.com/faborsky/nanobanana-app](https://github.com/faborsky/nanobanana-app).**
+>
+> Tenhle repozitář je archivovaný a **už nefunguje** — modely, na které se odkazuje
+> (`gemini-3-pro-image-preview` a `gemini-2.0-flash`), Google v červnu 2026 vypnul.
+>
+> Nová verze má aktuální modely, hlášení ceny za obrázek, dávkové zpracování,
+> testy a **přibalený skill pro Claude Code**. Pokračuj tam:
+> **→ https://github.com/faborsky/nanobanana-app**
+
+---
+
 # Nanobanana
 
 CLI tool for AI image generation powered by **Google Gemini 3 Pro Image** model. Designed to be orchestrated by AI coding agents like [Claude Code](https://docs.anthropic.com/en/docs/claude-code), but works great standalone too.
